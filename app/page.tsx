@@ -2,6 +2,7 @@ import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { User } from "lucide-react";
 import Herosection from "./components/herosection";
+import Contracts from "./components/contracts";
 
 export default function Home() {
   return (
@@ -27,6 +28,7 @@ export default function Home() {
         </div>
       </div>
       <Herosection />
+      <Contracts />
     </div>
   );
 }

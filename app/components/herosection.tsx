@@ -4,8 +4,8 @@ import { Input } from "@/components/ui/input";
 const Herosection = () => {
   return (
     <div className="w-full h-[600px] bg-[#fff9f0] flex items-center justify-center">
-      <div className="w-[45%] h-full flex flex-col justify-center space-y-5 ">
-        <h1 className="text-5xl font-bold">
+      <div className="w-[50%] h-full flex flex-col justify-center space-y-6 ">
+        <h1 className="text-6xl font-bold">
           The unparalleled leader in contract AI
         </h1>
         <div className="space-y-1">
