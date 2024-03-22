@@ -4,6 +4,7 @@ import { User } from "lucide-react";
 import Herosection from "./components/herosection";
 import Contracts from "./components/contracts";
 import Slidecontainer from "./components/slidecontainer";
+import Details from "./components/details";
 
 export default function Home() {
   return (
@@ -30,7 +31,8 @@ export default function Home() {
       </div>
       <Herosection />
       <Contracts />
-      <Slidecontainer/>
+      <Slidecontainer />
+      <Details />
     </div>
   );
 }

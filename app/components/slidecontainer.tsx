@@ -4,7 +4,7 @@ const Slidecontainer = () => {
   return (
     <Marquee>
       <div className="w-full flex flex-col justify-start items-start bg-gray-100 rounded-lg p-2">
-        <h1 className="text-3xl font-bold">Get fast roi</h1>
+        <h1 className="text-3xl font-bold">Get fast ROI</h1>
         <div className="w-full flex items-center gap-2">
           <img
             src="/Screenshot 2024-03-22 125817.png"
@@ -17,7 +17,7 @@ const Slidecontainer = () => {
         </div>
       </div>
       <div className="w-full flex flex-col justify-start items-start bg-gray-100 rounded-lg p-2">
-        <h1 className="text-3xl font-bold">Get fast roi</h1>
+        <h1 className="text-3xl font-bold">Automate complaince</h1>
         <div className="w-full flex items-center gap-2">
           <img
             src="/Screenshot 2024-03-22 133915.png"
@@ -30,7 +30,7 @@ const Slidecontainer = () => {
         </div>
       </div>
       <div className="w-full flex flex-col justify-start items-start bg-gray-100 rounded-lg p-2">
-        <h1 className="text-3xl font-bold">Get fast roi</h1>
+        <h1 className="text-3xl font-bold">Getup and running fast</h1>
         <div className="w-full flex items-center gap-2">
           <img
             src="/Screenshot 2024-03-22.png"
