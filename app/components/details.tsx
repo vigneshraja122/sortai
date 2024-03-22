@@ -45,8 +45,8 @@ const Details = () => {
             <p className="">
               Supercharge your workflows. Simplify every stage of the contract
               lifecycle — ticketing, drafting, editing, negotiation, and storage
-              — with Evisort&#39;s AI-powered workflows, risk analysis, automated
-              redlining, and total visibility and accountability.
+              — with Evisort&#39;s AI-powered workflows, risk analysis,
+              automated redlining, and total visibility and accountability.
             </p>
             <Button className="bg-blue-600">Learn more</Button>
           </div>

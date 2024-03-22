@@ -5,6 +5,7 @@ import Herosection from "./components/herosection";
 import Contracts from "./components/contracts";
 import Slidecontainer from "./components/slidecontainer";
 import Details from "./components/details";
+import Footer from "./components/footer";
 
 export default function Home() {
   return (
@@ -33,6 +34,7 @@ export default function Home() {
       <Contracts />
       <Slidecontainer />
       <Details />
+      <Footer/>
     </div>
   );
 }
